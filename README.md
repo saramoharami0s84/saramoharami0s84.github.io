@@ -1,9 +1,9 @@
 # saramoharami0s84.github.io
 <html>
 <head>
-<h2 style="color:red">
+<div style="background-color:red">
 سایت شخصی سارا محرمی
-</h2>
+</div>
 </head>
 </html>
 
